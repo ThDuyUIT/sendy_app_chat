@@ -1,4 +1,4 @@
-# sendy_app_chat
+# Sendy App Chat
 
 # 1 - Introduction:
 Sendy app chat is a chat real time application among users which used socketIO and RestfulAPI to communicate with server. 
