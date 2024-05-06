@@ -5,6 +5,7 @@ Sendy app chat is a chat real time application among users which used socketIO a
 
 # 2 - Technologies:
 - Framework: flutter
+- state management: flutter_bloc (basic)
 - DB: MongoDB
 - Local Storage: ShareWithPreference
 - Server: Nodejs + typescripts
