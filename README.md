@@ -8,7 +8,7 @@ Sendy app chat is a chat real time application among users which used socketIO a
 - state management: flutter_bloc (basic)
 - DB: MongoDB
 - Local Storage: ShareWithPreference
-- Server: Nodejs + typescripts
+- Server: Nodejs + typescripts (more detail: https://github.com/ThDuyUIT/sendy_server/tree/main)
 
 # 3 - Features:
 - Sign in/Sign up/Reset (Use JWT authentication + Verify email - firebase authentication)
