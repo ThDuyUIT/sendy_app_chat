@@ -16,4 +16,4 @@ Sendy app chat is a chat real time application among users which used socketIO a
 - Save message without internet (sync message when reconnect)
 - Manage information (change name + avatar)
 
-# 4 - Video demo:
+# 4 - Video demo: https://drive.google.com/file/d/1G90jp8p7HF_9P5HSHBYsv3V_CQaX5i0B/view?usp=sharing
